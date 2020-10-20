@@ -1,23 +1,11 @@
-## Step title
+## Task 3: Drawing ideas
+In  this task you will undertake [Lesson 5, Unit 2, Digital Storytelling](http://ncce.io/l8sQ03), (L5: Drawing ideas_Unit2_GBICi1b_KS1Storytelling). For this task you will use the three resources in Lesson 5, Unit 2 folder. They include: the teacher-facing [Lesson Plan](http://ncce.io/6CRfZV) and the [Presentation Slides](http://ncce.io/PDlCFh). (Again note that the Presentation Slides labels the activities in the top right-hand corner to help you navigate the lesson). The third document you will need is the [Labelled Drawing Template](http://ncce.io/98UccZ) which you will need to print one copy of.
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+This lesson focuses on ideas for interactive stories, enabling you to develop your own, very simple digital story. The lesson begins with story ideas using the template provided and then follows with identifying suitable Blocks to achieve those ideas with a focus on sequence. 
 
---- task ---
+Develop a section of your digital story idea (or the whole of your idea) in to a program. Remember to save the project as you will then use the template and the digital story to model to the class when you teach Lesson 5, Unit 2. You will also share your project with the GBIC team in Task 7. 
 
-If working **online**, open the [starter project](http://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Click the green button (below right) for the next step in this session.
 
-You should see...
- 
-![starter project](images/starter_project.png)
-
---- /task ---
-
---- task ---
-
-Step content...
-
---- /task ---
-
---- save ---
+If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
+If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

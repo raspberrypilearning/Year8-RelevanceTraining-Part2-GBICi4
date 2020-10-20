@@ -1,59 +1,10 @@
-## Introduction
+## Session 3: KS1 Storytelling Training - Investigating resources
+This session, Session 3, builds on your existing teaching skills developed in other subjects. You will explore two lessons in detail giving you the opportunity to develop a working understanding of the relationship between the Lesson Plans and the Presentation Slides as well as to experience the lessons from the pupils' perspective. You will begin to code in ScratchJr and develop an interactive animation. There are seven tasks in Session 3.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+**Introduction to tasks**
+In this part of the session, you will familiarise yourself further with ScratchJr and deepen your understanding of the resources by completing a second lesson that the pupils themselves undertake.
 
-### What you will make
+Click the green button (below right) for the next step in this session.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
----
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
+If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

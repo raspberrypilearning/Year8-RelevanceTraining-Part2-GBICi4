@@ -1,5 +1,4 @@
 ## Session Resources
-Now that you have read the App Development Scheme of Work (SoW)
 
 Together, these will be all the resources you need to participate in the Relevance trial.
 

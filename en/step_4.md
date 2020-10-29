@@ -1,11 +1,10 @@
-## Task 5: Scratch Blocks: Questions and Answers
+## Task 3: ScratchJr blocks: Questions and answers
 
-Now check your understanding of ScratchJr blocks.
+Check your understanding of ScratchJr blocks.
 
-Go through these series of [Scratch Blocks: Questions and Answers](https://docs.google.com/presentation/d/1rnADrJ4il2aOwlDp2zGlmU5mQeYBds5_TG_kUa7jkho/edit#slide=id.g90d2d05bbf_0_372).
-The questions you will be asked are the same as those in the lesson plenaries. Slides in yellow are the questions. Slides in purple are the answers. Don’t cheat!....try to answer the questions before looking up the answers.
+Go through the series of [Scratch blocks: Questions and answers](https://ncce.io/p4TC3b). The questions that you will be asked are the same as those in the lesson plenaries. The slides in yellow show the questions, and the slides in purple show the answers. Try to answer the questions before looking at the answers.
 
-Once you have completed the slides, click the green button (below right) for the next step in this session.
+Once you have answered the questions in the slides, click the green button (below right) to go to the next step in this session.
 
-If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

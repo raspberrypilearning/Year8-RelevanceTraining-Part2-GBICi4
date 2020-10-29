@@ -6,9 +6,9 @@ listed: false
 copyedit: false
 last_tested: "2020-09-08"
 steps:
-  - title: Accessing resources
+  - title: Accessing the resources
+  - title: Twelve sessions
   - title: Session resources
-  - title: Details on the resources
   - title: ScratchJr Tasks
   - title: "Task 3: Drawing ideas"
   - title: "Task 4: ScratchJr Interface and blocks"

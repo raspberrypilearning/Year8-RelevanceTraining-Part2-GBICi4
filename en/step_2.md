@@ -1,11 +1,11 @@
-## Task 3: Drawing ideas
-In  this task you will undertake [Lesson 5, Unit 2, Digital Storytelling](http://ncce.io/l8sQ03), (L5: Drawing ideas_Unit2_GBICi1b_KS1Storytelling). For this task you will use the three resources in Lesson 5, Unit 2 folder. They include: the teacher-facing [Lesson Plan](http://ncce.io/6CRfZV) and the [Presentation Slides](http://ncce.io/PDlCFh). (Again note that the Presentation Slides labels the activities in the top right-hand corner to help you navigate the lesson). The third document you will need is the [Labelled Drawing Template](http://ncce.io/98UccZ) which you will need to print one copy of.
+## Task 1: Drawing ideas
+In this task, you will undertake [Unit 2 – Digital storytelling – Lesson 5 – Drawing ideas](http://ncce.io/l8sQ03). Use the three lesson resources provided: the teacher-facing [lesson plan](http://ncce.io/6CRfZV), the [presentation slides](http://ncce.io/PDlCFh), and the [Labelled drawing template](http://ncce.io/98UccZ) (print one copy). (Note that the presentation slides label the activities in the top right-hand corner to help you navigate the lesson.) 
 
-This lesson focuses on ideas for interactive stories, enabling you to develop your own, very simple digital story. The lesson begins with story ideas using the template provided and then follows with identifying suitable Blocks to achieve those ideas with a focus on sequence. 
+This lesson focuses on ideas for interactive stories, enabling you to develop your own, very simple digital story. The lesson begins with developing story ideas using the template provided, followed by identifying suitable blocks to achieve those ideas, with a focus on sequence. 
 
-Develop a section of your digital story idea (or the whole of your idea) in to a program. Remember to save the project as you will then use the template and the digital story to model to the class when you teach Lesson 5, Unit 2. You will also share your project with the GBIC team in Task 7. 
+Develop a section of your digital story idea (or the whole of your idea) into a program. Make sure that you save the project, as you will use the template and the digital story to demonstrate to the class when you teach Unit 2 – Lesson 5. You will also share your project with the GBIC team in Task 5. 
 
-Click the green button (below right) for the next step in this session.
+Click the green button (below right) to go to the next step in this session.
 
-If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

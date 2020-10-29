@@ -6,8 +6,8 @@ listed: false
 copyedit: false
 last_tested: "2020-09-08"
 steps:
-  - title: Accessing the Relevance resources
-  - title: Overview of the resources
+  - title: Accessing resources
+  - title: Session resources
   - title: Details on the resources
   - title: ScratchJr Tasks
   - title: "Task 3: Drawing ideas"

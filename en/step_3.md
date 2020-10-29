@@ -1,4 +1,4 @@
-## Task 3: Session Resources
+## Session Resources
 Now that you have read the App Development Scheme of Work (SoW) and undertaken Session 6, you should take time to familiarise yourself further with App Lab by exploring the subsequent App Lab focused sessions: 7 to 11. Continuing to program in App Lab will help you develop your subject-knowledge as well as your confidence in delivering live demonstrations in class. You will also have experienced the sessions from the pupils' perspective which will help when giving support in the sessions. 
 
 --- task ---

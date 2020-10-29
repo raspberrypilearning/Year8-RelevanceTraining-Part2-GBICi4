@@ -1,4 +1,4 @@
-## 12 Sessions
+## Twelve Sessions
 
 You will be using App Lab to teach key programming concepts in the production of an app for a mobile device. Learners need not be familiar with programming at the start of the trial. Educators should be familiar with app design, idea development and App Lab. Detailed instructions for completing each task are provided in the Lesson Primer so that educators are able to practice in advance when preparing for the lessons. Parts 2 and3 focus on building up your expertise inadvanceof the trial as well as furthering your familiarity with the resources.
 

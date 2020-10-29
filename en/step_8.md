@@ -9,7 +9,7 @@ Create one, some, or all of the following:
 
 Alternatively, create a character that you would like to use that isn't available in ScratchJr.
 
-Click the green button (below right) to go to the next step in this session.
-
 You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
 You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+
+**Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**

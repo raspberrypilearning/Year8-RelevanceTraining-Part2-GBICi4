@@ -1,14 +1,15 @@
-## Task 6: Drawing in ScratchJr
-As part of drawing ideas, explore [ScratchJr Paint Editor Guide](https://www.scratchjr.org/pdfs/paint-editor-guide.pdf) and experiment with drawing in ScratchJr.
-Create one, some or all of the following:
-+ house
-+ car
-+ computer
-+ an animal such as a giraffe 
+## Task 4: Drawing in ScratchJr
+Explore the [ScratchJr Paint Editor Guide](https://www.scratchjr.org/pdfs/paint-editor-guide.pdf) and experiment with drawing in ScratchJr.
 
-OR think of a Character you’d like to create which isn’t available in ScratchJr.
+Create one, some, or all of the following:
++ A house
++ A car
++ A computer
++ An animal, such as a giraffe 
 
-Click the green button (below right) for the next step in this session.
+Alternatively, create a character that you would like to use that isn't available in ScratchJr.
 
-If you need to go back to the list of contents for this session (Session 3), click [here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
-If you need to access the menu for Sessions 1, 2 and 3, click [here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+Click the green button (below right) to go to the next step in this session.
+
+You can go back to the [list of contents for this session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
+You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).

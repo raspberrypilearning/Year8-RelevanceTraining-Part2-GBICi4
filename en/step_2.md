@@ -7,5 +7,5 @@ Develop a section of your digital story idea (or the whole of your idea) into a 
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this session (Session 3) here](https://projects.raspberrypi.org/en/projects/KS1StorytellingTraining_Session3_GBICi1b).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/ks1-storytellingtraining-gbici1b).
+You can go back to the [list of contents for this session (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
+You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

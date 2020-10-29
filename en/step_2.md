@@ -1,4 +1,4 @@
-## The resources
+## 12 Sessions
 
 You will be using App Lab to teach key programming concepts in the production of an app for a mobile device. Learners need not be familiar with programming at the start of the trial. Educators should be familiar with app design, idea development and App Lab. Detailed instructions for completing each task are provided in the Lesson Primer so that educators are able to practice in advance when preparing for the lessons. Parts 2 and3 focus on building up your expertise inadvanceof the trial as well as furthering your familiarity with the resources.
 
@@ -6,13 +6,17 @@ Sessions  1 to 5 gradually introduces learners to app idea development focusing 
 
 ![Lesson Folders on screen and rest cursor on each folder](images/Relevance-LessonFolderAccess.gif)
 
-In the overall Sessions folder, you will find 12 numbered session folders. Each session folder includes the following:
+In the overall Sessions folder, you will find 12 numbered session folders. 
+
+Each session folder includes the following:
 + Lesson Primer
 + Lesson Plan
 + Teacher Slides
 + Student Worksheet
 + Student Checklist 
 + you may also find session-specific associated resources such as related step-by-step guides 
+
+The content of the session folders will be explored in the next step.
 
 Click the green button (below right) for the next step in this session.
 

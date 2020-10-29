@@ -22,6 +22,8 @@ The main resources folder consists of one 'Session' sub-folder (containing resou
 + Lesson Wireframe (GoogleSlide)
 + Setting up App Lab Logins Guide (GoogleDoc)
 
+Gain a brief overview of the 'App Development Scheme of Work (SoW)' and the 'Lesson Wireframe' files. You will have further opportunities to understand the sessions in more details in the next subsequent steps.
+
 ![Modelling access webpage](images/Relevance-WebpageAccess.gif)
 
 You will implement the Relevance intervention within the fully-resourced sessions prepared for the trial period.

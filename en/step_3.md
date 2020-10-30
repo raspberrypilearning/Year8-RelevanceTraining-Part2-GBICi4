@@ -11,7 +11,7 @@ All the Lesson Primers are structured in a consistent way with the following sub
 + Extension tasks
 + Further reading
 
-![Lesson Primer](images/relevance-LessonPrimer.png){:width="250px"}
+![Lesson Primer](images/relevance-LessonPrimer.png){:width="300px"}
 
 **Lesson Plan**
 The '5 Minute' Lesson Plan enables teachers to visualise the lesson. The one-page diagram includes: 
@@ -34,7 +34,7 @@ All the lesson slides are structured in a consistent way, beginning with a remin
 **Student Checklist**
 The one-page student-facing table enables students to tick off the tasks in the session as they complete them. It acts as a useful motivator, reminder and learning progression map. 
  
-![Student Checklist](images/relevance-StudentChecklist.png){:width="250px"}
+![Student Checklist](images/relevance-StudentChecklist.png){:width="300px"}
 
 **Student Workbook and Worksheets**
 Each session folder contains a Student Worksheet. These worksheets are also combined into one Student Workbook file which is in the main folder. Choose whether you want the students to have access to the whole Workbook (see below) at the beginning of the trial or have access to the Lesson Worksheets in the relevant session. The Student Workbook is useful as a document of their learning.

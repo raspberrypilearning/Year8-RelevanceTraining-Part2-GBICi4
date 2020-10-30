@@ -1,7 +1,7 @@
 ## Part 2: Year 8 Relevance Training - Getting started
 You will be using App Lab to teach key programming concepts in the production of an app for a mobile device. Learners need not be familiar with programming at the start of the trial. Educators should be familiar with app design, idea development and App Lab. 
 
-Parts 2 and 3 of this course focus on building up your expertise in advance of the trial as well as furthering your familiarity with the resources. Over the rest of course you will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the sessions in your own classroom.
+Parts 2 and 3 of this course focus on building up your expertise in advance of the trial as well as furthering your familiarity with the resources. Over the rest of this online course you will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the sessions in your own classroom.
 
 Part 2 introduces you to the online Relevance intervention resources. Then, through three tasks you will focus on the development of app ideas that address real-world issues and complete sessions that the pupils themselves undertake. 
 

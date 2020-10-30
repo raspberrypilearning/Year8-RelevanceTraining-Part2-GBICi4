@@ -18,7 +18,7 @@ The session introduces you to the [Relevance Resource portal](NEED LINK - HAYLEY
 
 Feel free to download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of the teacher’s tablet/iPad/computer for ease of reference. 
 
-Links to all of the resources can also be found in your [Project Guide](NEED LINK){:target="_blank"}, on the [Lesson Wireframe](https://ncce.io/4PM6um){:target="_blank"} and also accessed via the [Google Drive](https://ncce.io/KNDNJR){:target="_blank"}.
+Links to all of the resources can also be found in your [Project guide](https://ncce.io/xiv8pO){:target="_blank"}, on the [Lesson Wireframe](https://ncce.io/4PM6um){:target="_blank"} and also accessed via the [Google Drive](https://ncce.io/KNDNJR){:target="_blank"}.
 
 --- /task ---
 

@@ -1,5 +1,5 @@
 ## Task 2: Paper designs and assets
-In this task, you will undertake Session 4 which will introduce you to conceiving your app as a **Minimum Viable Product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and resreach graphics andsound to use in your app.
+In this task, you will undertake Session 4 which will introduce you the concept of a **Minimum Viable Product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and begin to research graphics and sound to use in your app.
 
 --- task ---
 

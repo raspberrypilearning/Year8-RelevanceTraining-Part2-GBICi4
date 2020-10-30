@@ -1,6 +1,8 @@
 ## Session Resources
 
-Each of the 12 x sessions/1-hour lessons always includes the following resources: Lesson Primer, Lesson Plan, Teacher Slides and Student Checklist. The  purpose and use ofthese files are outlined further below. In some sessions you will also find session-specific documents.
+Each of the 12 x sessions/1-hour lessons always includes the following resources: Lesson Primer, Lesson Plan, Teacher Slides and Student Checklist. The purpose and use of these files are outlined further below. In some sessions you will also find session-specific documents.
+
+--- task ---
 
 **Lesson Primer**
 All the Lesson Primers are structured in a consistent way with the following subheadings:
@@ -44,8 +46,6 @@ The one-page student-facing table enables students to tick off the tasks in the 
 Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 --- /task ---
-
---- task ---
 
 In the next step you will develop an understanding of app design and idea development processes in your first training task using in sessions 1 to 5 as a reference.
 

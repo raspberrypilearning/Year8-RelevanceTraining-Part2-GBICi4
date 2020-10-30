@@ -34,7 +34,7 @@ The main resources folder consists of one 'Session' sub-folder (containing resou
 
 --- task ---
 
-Gain a brief overview of the 'App Development Scheme of Work (SoW)' and the 'Lesson Wireframe' files. You will have further opportunities to understand the sessions in more detail in the next steps.
+Take some time now to gain a brief overview of the 'App Development Scheme of Work (SoW)' and the 'Lesson Wireframe' files. You will have further opportunities to understand the sessions in more detail in the next steps.
 
 --- /task ---
 

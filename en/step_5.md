@@ -1,9 +1,27 @@
-## Task 1: Drawing ideas
-In this task, you will undertake [Unit 2 – Digital storytelling – Lesson 5 – Drawing ideas](http://ncce.io/l8sQ03). Use the three lesson resources provided: the teacher-facing [lesson plan](http://ncce.io/6CRfZV), the [presentation slides](http://ncce.io/PDlCFh), and the [Labelled drawing template](http://ncce.io/98UccZ) (print one copy). (Note that the presentation slides label the activities in the top right-hand corner to help you navigate the lesson.) 
+## Task 2: Paper designs
+In this task, you will undertake Session 4 which will introduce you to conceiving your app as a **Minimum Viable Product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and resreach graphics andsound to use in your app.
 
-This lesson focuses on ideas for interactive stories, enabling you to develop your own, very simple digital story. The lesson begins with developing story ideas using the template provided, followed by identifying suitable blocks to achieve those ideas, with a focus on sequence. 
+--- task ---
 
-Develop a section of your digital story idea (or the whole of your idea) into a program. Make sure that you save the project, as you will use the template and the digital story to demonstrate to the class when you teach Unit 2 – Lesson 5. You will also share your project with the GBIC team in Task 5. 
+Open the [Session 4](http://ncce.io/NqwdC8) folder. As with the previous task, begin by reading the Teacher Slides with reference to the other session resources provided. You  can either work through the session activities or read the slides.
+
+--- /task ---
+
+--- task ---
+
+Now develop your designs for your app on the mobile screen templates on page 4 and 5 of the [Student Worksheets](http://ncce.io/Qmo6oA).
+
+Think about essential and feasible features, sketching out how you want your screens to look. Consider what the user sees when they open the app, and how they move through screens and use important features.
+
+--- /task ---
+
+--- task ---
+
+Open the [Session 5](http://ncce.io/QLuLSQ) folder. Read the Teacher Slides with reference to the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright free images and sounds whichyou  can use as **assets** in your app.
+
+--- /task ---
+
+You will now go on to Part 3 of the online course, developing your knowledge of AppLab. Learning about AppLab will help you refine your app ideas further, identify how you can program your app, see your ideas in a working app and share your app with others.
 
 Click the green button (below right) to go to the next step in this session.
 

@@ -1,4 +1,4 @@
-## Task 1: Idea development
+## Task 1: App idea development
 
 In this task you will explore apps, their design and what apps are currently in the market place which address real-world issues.
 

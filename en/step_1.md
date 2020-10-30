@@ -12,7 +12,7 @@ Firstly, you are going to access the session resources you will need for the Rel
 
 The session introduces you to the [Relevance Resource portal](https://ncce.io/relevance-pilot){:target="_blank"} where you can explore all the resources for Session 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
 
-![Modelling access webpage](images/relevance-Webpage.png){:width="300px"}
+![Modelling access webpage](images/relevance-Webpage.png){:width="250px"}
 
 ![Modelling access webpage](images/relevance-WebpageAccess.gif)
 

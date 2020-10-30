@@ -1,5 +1,5 @@
 ## Twelve Sessions
-Sessions 1 to 5 gradually introduce learners to app idea development focusing on a real-world issue. From Session 6, pupils are introduced to the App Lab environment and related blocks that can be used to construct their app. Over the course of the rest of these subsequent sessions, pupils explore the programming concepts of sequencing, selection and repetition to produce an app of their choice.
+Sessions 1 to 5 gradually introduce learners to the process of developing ideas for apps that can address a real-world issue. From Session 6, pupils are introduced to the App Lab environment and related blocks that can be used to construct their app. Over the course of these subsequent sessions, pupils explore the programming concepts of sequencing, selection and repetition to produce an app of their choice.
 
 ![Lesson Folders on screen and rest cursor on each folder](images/Relevance-LessonFolderAccess.gif)
 

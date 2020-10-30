@@ -10,7 +10,7 @@ Firstly, you are going to access the session resources you will need for the Rel
 
 --- task ---
 
-The session introduces you to the [Relevance Resource portal](NEED LINK - HAYLEY WHAT URL?){:target="_blank"} where you can explore all the resources for Session 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
+The session introduces you to the [Relevance Resource portal](https://ncce.io/relevance-pilot){:target="_blank"} where you can explore all the resources for Session 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
 
 ![Modelling access webpage](images/relevance-Webpage.png)
 
@@ -18,7 +18,7 @@ The session introduces you to the [Relevance Resource portal](NEED LINK - HAYLEY
 
 Feel free to download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of the teacher’s tablet/iPad/computer for ease of reference. 
 
-Links to all of the resources can also be found in your [Project Guide](NEED LINK){:target="_blank"}, on the [Lesson Wireframe](https://ncce.io/4PM6um){:target="_blank"} and also accessed via the [Google Drive](https://ncce.io/KNDNJR){:target="_blank"}.
+Links to all of the resources can also be found in your [Project guide](https://ncce.io/xiv8pO){:target="_blank"}, on the [Lesson Wireframe](https://ncce.io/4PM6um){:target="_blank"} and also accessed via the [Google Drive](https://ncce.io/KNDNJR){:target="_blank"}.
 
 --- /task ---
 
@@ -40,7 +40,7 @@ Take some time now to gain a brief overview of the 'App Development Scheme of Wo
 
 You will implement the Relevance intervention within these fully-resourced sessions prepared for the trial period.
 
-Click the green button (below right) for the next step in this session.
+Click the green button (below right) for the next step in Part 2.
 
 You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4).
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

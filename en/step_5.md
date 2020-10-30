@@ -23,7 +23,7 @@ Open the [Session 5](http://ncce.io/QLuLSQ) folder. Read the Teacher Slides with
 
 You will now go on to Part 3 of the online course, developing your knowledge of AppLab. Learning about AppLab will help you refine your app ideas further, identify how you can program your app, see your ideas in a working app and share your app with others.
 
-Click the green button (below right) to go to the next step in this session.
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
+You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
-You can go back to the [list of contents for this session (Session 1) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
-You can access the [menu for Sessions 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
+**Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**

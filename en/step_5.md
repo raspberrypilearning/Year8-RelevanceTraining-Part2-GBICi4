@@ -3,13 +3,13 @@ In this task, you will undertake Session 4 which will introduce you the concept 
 
 --- task ---
 
-Open the [Session 4](http://ncce.io/NqwdC8) folder. As with the previous task, begin by reading the Teacher Slides with reference to the other session resources provided. You  can either work through the session activities or read the slides.
+Open the [Session 4](http://ncce.io/NqwdC8){:target="_blank"} folder. As with the previous task, begin by reading the Teacher Slides with reference to the other session resources provided. You  can either work through the session activities or read the slides.
 
 --- /task ---
 
 --- task ---
 
-Now develop your designs for your app on the mobile screen templates on page 4 and 5 of the [Student Worksheets](http://ncce.io/Qmo6oA).
+Now develop your designs for your app on the mobile screen templates on page 4 and 5 of the [Student Worksheets](http://ncce.io/Qmo6oA){:target="_blank"}.
 
 Think about essential and feasible features, sketching out how you want your screens to look. Consider what the user sees when they open the app, and how they move through screens and use important features.
 
@@ -17,7 +17,7 @@ Think about essential and feasible features, sketching out how you want your scr
 
 --- task ---
 
-Open the [Session 5](http://ncce.io/QLuLSQ) folder. Read the Teacher Slides with reference to the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright free images and sounds whichyou  can use as **assets** in your app.
+Open the [Session 5](http://ncce.io/QLuLSQ){:target="_blank"} folder. Read the Teacher Slides with reference to the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright free images and sounds whichyou  can use as **assets** in your app.
 
 --- /task ---
 

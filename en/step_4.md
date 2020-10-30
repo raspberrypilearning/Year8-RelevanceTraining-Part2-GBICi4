@@ -4,13 +4,13 @@ In this task you will explore apps, their design and what apps are currently in 
 
 --- task ---
 
-Read the two Teacher Slides from [Session 1](https://ncce.io/pVQwRm) and [Session 2](https://ncce.io/p3WCIt). These slides give you a clear understanding of the idea development process during these two sessions. Links are given to a series of videos which are very informative.
+Read the two Teacher Slides from [Session 1](https://ncce.io/pVQwRm){:target="_blank"} and [Session 2](https://ncce.io/p3WCIt){:target="_blank"}. These slides give you a clear understanding of the idea development process during these two sessions. Links are given to a series of videos which are very informative.
 
 --- /task ---
 
 --- task ---
 
-In this task you will undertake [Session 3](https://ncce.io/jQMOvR) to help to build on your existing teaching skills in app design and idea development. Exploring this session in detail will give you the opportunity to develop a working understanding of the correlation between the various resource files as well as experience a lesson from the pupils' perspective. 
+In this task you will undertake [Session 3](https://ncce.io/jQMOvR){:target="_blank"} to help to build on your existing teaching skills in app design and idea development. Exploring this session in detail will give you the opportunity to develop a working understanding of the correlation between the various resource files as well as experience a lesson from the pupils' perspective. 
 
 You will be using the ideas you develop in Session 3 towards a working app which you will program in Part 3 of this course. Keep a record of your ideas using the Student Worksheets provided.
 

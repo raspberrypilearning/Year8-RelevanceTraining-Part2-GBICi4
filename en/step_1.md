@@ -3,7 +3,7 @@ You will be using App Lab to teach key programming concepts in the production of
 
 Parts 2 and 3 of this course focus on building up your expertise in advance of the trial as well as furthering your familiarity with the resources. Over the rest of this online course you will have an opportunity to explore all the resources for yourself, try them out and think about how to implement the sessions in your own classroom.
 
-Part 2 introduces you to the online Relevance intervention resources. Then, through three tasks you will focus on the development of app ideas that address real-world issues and complete sessions that the pupils themselves undertake. 
+This part, Part 2, of the course begins to introduce you to the online Relevance intervention resources. Then, through two tasks you will focus on the development of your own app idea that addresses a real-world issues. You will complete two sessions that the pupils themselves will undertake. 
 
 ## Accessing the resources
 Firstly, you are going to access the session resources you will need for the Relevance trial. 

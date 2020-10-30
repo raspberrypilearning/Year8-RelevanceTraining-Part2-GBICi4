@@ -1,6 +1,5 @@
 ## Session Resources
-
-Each of the 12 x sessions/1-hour lessons always includes the following resources: Lesson Primer, Lesson Plan, Teacher Slides and Student Checklist. The purpose and use of these files are outlined further below. In some sessions you will also find session-specific documents.
+The below explains what each of the seperate resources offer in each session.
 
 --- task ---
 

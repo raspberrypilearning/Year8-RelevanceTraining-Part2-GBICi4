@@ -10,7 +10,7 @@ Read the two Teacher Slides from [Session 1](https://ncce.io/pVQwRm){:target="_b
 
 --- task ---
 
-In this task you will undertake [Session 3](https://ncce.io/jQMOvR){:target="_blank"} to help to build on your existing teaching skills in app design and idea development. Exploring this session in detail will give you the opportunity to develop a working understanding of the correlation between the various resource files as well as experience a lesson from the pupils' perspective. 
+Now work through [Session 3](https://ncce.io/jQMOvR){:target="_blank"}, which will help to build on your existing teaching skills in app design and idea development. Exploring this session in detail will give you the opportunity to develop a working understanding of the correlation between the various resource files as well as experience a lesson from the pupils' perspective. 
 
 You will be using the ideas you develop in Session 3 towards a working app which you will program in Part 3 of this course. Keep a record of your ideas using the Student Worksheets provided.
 

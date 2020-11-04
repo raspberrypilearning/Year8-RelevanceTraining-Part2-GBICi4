@@ -8,7 +8,7 @@ All the Lesson Primers are structured in a consistent way with the following sub
 + What you need to know about running this lesson: practical issues, documents required, and activity timings.
 + Key information and terminology
 + Assessment questions
-+ Extension tasks
++ Extension tasks (in some sessions)
 + Further reading
 
 ![Lesson Primer](images/relevance-LessonPrimer.png){:width="300px"}

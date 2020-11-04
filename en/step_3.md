@@ -37,7 +37,7 @@ The one-page student-facing table enables students to tick off the tasks in the 
 ![Student Checklist](images/relevance-StudentChecklist.png){:width="300px"}
 
 **Student Workbook and Worksheets**
-Each session folder contains a Student Worksheet. These worksheets are also combined into one Student Workbook file which is in the main folder. Choose whether you want the students to have access to the whole Workbook (see below) at the beginning of the trial or have access to the Lesson Worksheets in the relevant session. The Student Workbook is useful as a document of their learning.
+Each session folder contains a Student Worksheet. These worksheets are also combined into one Student Workbook file which is in the main folder. Choose whether you want the students to have access to the whole Workbook (see below) at the beginning of the trial or have access to the Lesson Worksheets in the relevant session. The Student Workbook is useful to document their learning.
 
 ![Lesson  Workbook](images/relevance-StudentWorkbook.gif)
 

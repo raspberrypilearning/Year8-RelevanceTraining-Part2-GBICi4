@@ -1,11 +1,22 @@
-## Task 1: Drawing ideas
-In this task, you will undertake [Unit 2 – Digital storytelling – Lesson 5 – Drawing ideas](http://ncce.io/l8sQ03). Use the three lesson resources provided: the teacher-facing [lesson plan](http://ncce.io/6CRfZV), the [presentation slides](http://ncce.io/PDlCFh), and the [Labelled drawing template](http://ncce.io/98UccZ) (print one copy). (Note that the presentation slides label the activities in the top right-hand corner to help you navigate the lesson.) 
+## Twelve Sessions
+Sessions 1 to 5 gradually introduce learners to the process of developing ideas for apps that can address a real-world problem. From Session 6, students are introduced to the App Lab environment and related blocks that can be used to construct their app. Over the course of these subsequent sessions, students explore the programming concepts of sequencing, selection and repetition to produce an app of their choice.
 
-This lesson focuses on ideas for interactive stories, enabling you to develop your own, very simple digital story. The lesson begins with developing story ideas using the template provided, followed by identifying suitable blocks to achieve those ideas, with a focus on sequence. 
+![Lesson Folders on screen and rest cursor on each folder](images/relevance-LessonFolderAccess.gif)
 
-Develop a section of your digital story idea (or the whole of your idea) into a program. Make sure that you save the project, as you will use the template and the digital story to demonstrate to the class when you teach Unit 2 – Lesson 5. You will also share your project with the GBIC team in Task 5. 
+In the overall Sessions folder, you will find 12 numbered session folders. 
+
+Each session folder includes the following:
++ Lesson Primer
++ Lesson Plan
++ Teacher Slides
++ Student Worksheet
++ Student Checklist 
++ you may also find session-specific associated resources such as related step-by-step guides 
+
+The content of the session folders will be explored in the next step.
 
 Click the green button (below right) to go to the next step in this session.
 
-You can go back to the [list of contents for this part (Part 3) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
+You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4).
+
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

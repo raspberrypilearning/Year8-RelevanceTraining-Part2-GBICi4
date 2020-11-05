@@ -43,4 +43,5 @@ You will implement the Relevance intervention within these fully-resourced sessi
 Click the green button (below right) for the next step in Part 2.
 
 You can go back to the [list of contents for this part (Part 2) here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4).
+
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

@@ -1,9 +1,9 @@
 ## Task 2: Paper designs and assets
-In this task, you will undertake Session 4, which will introduce you to the concept of a **minimum viable product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and begin to research graphics and sound to use in your app.
+In this task, you will undertake Session 4, which will introduce the concept of a **minimum viable product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and begin to research graphics and sound to use in your app.
 
 --- task ---
 
-Open the [Session 4](http://ncce.io/NqwdC8){:target="_blank"} folder. As with the previous task, begin by reading the lesson slides and the other session resources provided. You  can either work through the session activities or read the slides.
+Open the [Session 4](http://ncce.io/NqwdC8){:target="_blank"} folder. As with the previous task, begin by reading the teacher slides and the other session resources provided. 
 
 --- /task ---
 

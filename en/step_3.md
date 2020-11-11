@@ -1,5 +1,5 @@
 ## Session resources
-Below you will find an explanation of what each of the seperate resources offers in each session.
+Below you will find an explanation of what each of the separate resources offers in each session.
 
 --- task ---
 
@@ -15,14 +15,14 @@ All the lesson primers are structured in a consistent way with the following sub
 
 **Lesson plan**
 The 'five-minute' lesson plan enables teachers to visualise the lesson. The one-page diagram includes: 
-+ 'The BIG picture?'
++ The BIG picture?
 + Objectives
 + Engagement
 + Key messages
 + Assessment for learning (AfL)
 + Differentiation
 + Key words
-+ Learning episodes — identifying whether these are teacher- or student-led
++ Learning episodes — identifying whether these are teacher led or student led
 
 ![Lesson Plan](images/relevance-LessonPlan.png){:width="400px"}
 
@@ -32,7 +32,7 @@ All the teacher slides are structured in a consistent way, beginning with a remi
 ![Lesson Slides](images/relevance-LessonSlides.gif)
 
 **Student checklist**
-The one-page student-facing table enables students to tick off the tasks in the session as they complete them. It acts as a useful motivator, reminder, and learning progression map. 
+The one-page student-facing table enables students to tick off the tasks in the session as they complete them. It acts as a useful motivator, reminder, and learning progression map.
  
 ![Student Checklist](images/relevance-StudentChecklist.png){:width="300px"}
 
@@ -52,6 +52,8 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 --- /task ---
 
 In the next step, you will develop an understanding of app design and idea development processes in your first training task, using Sessions 1 to 5 as a reference.
+
+Click the green button (below right) to go to the next step in this session.
 
 You can go back to the [start of Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
 

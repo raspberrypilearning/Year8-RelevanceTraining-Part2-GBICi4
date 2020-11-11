@@ -34,13 +34,13 @@ The main resources folder consists of one subfolder entitled 'Sessions' (contain
 
 --- task ---
 
-Take some time now to gain a brief overview of the 'App development scheme of work (SoW)' and the 'lesson wireframe' files. You will have the opportunity to understand the sessions in more detail in the next steps.
+Take some time now to gain a brief overview of the 'App development course scheme of work (SoW)' and the 'Lesson wireframe' files. You will have the opportunity to understand the sessions in more detail in the next steps.
 
 --- /task ---
 
-You will implement the Relevance trial within these fully resourced sessions prepared for the trial period.
+You will implement the Relevance intervention within these fully resourced sessions prepared for the trial period.
 
-Click the green button (below right) for the next step in Part 2.
+Click the green button (below right) to go to the next step in Part 2.
 
 You can go back to the [start of Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4).
 

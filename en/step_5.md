@@ -17,7 +17,7 @@ Think about essential and feasible features, sketching out how you want your scr
 
 --- task ---
 
-Open the [Session 5](http://ncce.io/QLuLSQ){:target="_blank"} folder. Read the lesson slides and the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
+Open the [Session 5](http://ncce.io/QLuLSQ){:target="_blank"} folder. Read the teacher slides and the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
 
 --- /task ---
 

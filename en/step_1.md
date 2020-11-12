@@ -24,7 +24,7 @@ You can also find links to all of the resources in your [project guide](https://
 
 --- task ---
 
-The main resources folder consists of one subfolder entitled 'Sessions' (containing resources to the twelve sessions/one-hour lessons) as well as four further files: 
+The main resources folder consists of one subfolder entitled 'Sessions' (containing resources for the twelve sessions/one-hour lessons) as well as four further files: 
 + App development course scheme of work (SoW) (spreadsheet)
 + App development student workbook (slides for use as worksheets)
 + Lesson wireframe (text document)

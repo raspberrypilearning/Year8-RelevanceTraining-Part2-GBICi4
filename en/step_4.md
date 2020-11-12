@@ -20,6 +20,6 @@ In the next task, you will develop designs for your app on a template of mobile 
 
 Click the green button (below right) to go to the next step.
 
-You can go back to the [start of Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
+You can go back to the [start of Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4).
 
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).

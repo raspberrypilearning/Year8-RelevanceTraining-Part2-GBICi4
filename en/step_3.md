@@ -37,7 +37,7 @@ The one-page student-facing table enables students to tick off the tasks in the 
 ![Student Checklist](images/relevance-StudentChecklist.png){:width="300px"}
 
 **Student workbook and worksheets**
-Each session folder contains a student worksheet. These worksheets are also combined into one 'Student workbook' file, which is in the main folder. Choose whether you want the students to have access to the whole workbook (see below) at the beginning of the trial, or to have access to the lesson worksheets in the relevant sessions. The student workbook is useful to document their learning.
+Each session folder contains a student worksheet. These worksheets are also combined into one 'Student workbook' file, which is in the main folder. Choose whether you want the students to have access to the whole workbook (see below) at the beginning of the project, or to have access to the lesson worksheets in the relevant sessions. The student workbook is useful to document their learning.
 
 ![Lesson  Workbook](images/relevance-StudentWorkbook.gif)
 
@@ -45,9 +45,9 @@ Each session folder contains a student worksheet. These worksheets are also comb
 
 --- task ---
 
-Work your way through each session, exploring the lesson primer and lesson plan and their correlation with the teacher slides. Allowing yourself time for preparation now will make it easier to incorporate the Relevance intervention into your lessons when the trial begins. 
+Work your way through each session, exploring the lesson primer and lesson plan and their correlation with the teacher slides. Allowing yourself time for preparation now will make it easier to incorporate the Relevance intervention into your lessons when the project begins. 
 
-Make a note of anything that you need to clarify. You can use the feedback form to ask questions to the trial community. You can also get in touch with us by email if you have any queries at any time before, during, or after the trial via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
+Make a note of anything that you need to clarify. You can also get in touch with us by email if you have any queries at any time before, during, or after the project via [genderresearch@raspberrypi.org](mailto:genderresearch@raspberrypi.org).
 
 --- /task ---
 

@@ -1,5 +1,7 @@
 ## Task 1: App idea development
 
+Watch this [video](https://youtu.be/e1St8LB4VJA){:target="_blank"} to hear why App Lab is great for teaching programming in the classroom.”
+
 In this task, you will explore apps, their design, and what apps that address real-world problems are currently in the marketplace.
 
 --- task ---

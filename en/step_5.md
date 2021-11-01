@@ -1,15 +1,15 @@
 ## Task 2: Paper designs and assets
-In this task, you will undertake Session 4, which will introduce the concept of a **minimum viable product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and begin to research graphics and sound to use in your app.
+In this task, you will undertake Session 8, which will introduce the concept of a **minimum viable product (MVP)** in a series of paper-based designed screens. You will then refine your app design ideas and begin to research graphics and sound to use in your app.
 
 --- task ---
 
-Open the [Session 4](http://ncce.io/NqwdC8){:target="_blank"} folder. As with the previous task, begin by reading the teacher slides and the other session resources provided. 
+Open the [Session 8](https://drive.google.com/drive/folders/1nQReIPiBQ7C7C3X5QvbVXOInifHqx_LU?usp=sharing){:target="_blank"} folder. As with the previous task, begin by reading the teacher slides and the other session resources provided. 
 
 --- /task ---
 
 --- task ---
 
-Now develop your designs for your app on the mobile phone screen templates on pages 4 and 5 of the [student worksheets](http://ncce.io/Qmo6oA){:target="_blank"}.
+Now develop your designs for your app on the mobile phone screen templates on pages 1 and 2 of [Session 9 student worksheets](https://docs.google.com/presentation/d/1MQjzLhsQLqN8eTqyh1f6cvezcbSssOBzRbzAN7fT6ZQ){:target="_blank"}.
 
 Think about essential and feasible features, sketching out how you want your screens to look. Consider what the user sees when they open the app, and how they move through screens and use important features.
 
@@ -17,7 +17,7 @@ Think about essential and feasible features, sketching out how you want your scr
 
 --- task ---
 
-Open the [Session 5](http://ncce.io/QLuLSQ){:target="_blank"} folder. Read the teacher slides and the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
+Open the [Session 9](https://drive.google.com/drive/folders/1dm43k8X1q8lt8_5gtA6TIQ-df7Y5Mfeu?usp=sharing){:target="_blank"} folder. Read the teacher slides and the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
 
 --- /task ---
 

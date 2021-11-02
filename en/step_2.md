@@ -3,9 +3,11 @@ Session 1 introduces learners generally to app development. From Sessions 2 to 4
 
 ![Lesson Folders on screen and rest cursor on each folder](images/relevance-LessonFolderAccess.gif)
 
-In the main 'Sessions' folder, you will find 13 numbered session folders. 
+In the main 'Sessions' folder, you will find 13 numbered session folders.
 
-Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 - the Industry Engagement session - where students pitch their ideas to industry Experts online. Teachers will need to plan this session well in advance. See the session Primer for further details. Teachers can also opt for all students to undertake Session 11 which is an additional app building session. If undertaking Session 10 and 11, students will have two full sessions to build and refine their app.
+Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 - Industry Engagement - where students pitch their ideas to industry Experts online. Teachers will need to plan this session at least a week in advance. See Session 7 Primer for further details on [Industry Engagement](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo/edit?usp=sharing). 
+
+Teachers can also opt for all students to undertake Session 11 which is an additional app building session. If undertaking Session 10 and 11, students will have two full sessions to build and refine their app.
 
 Each session folder includes the following:
 + Lesson primer

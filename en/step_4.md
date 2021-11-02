@@ -6,15 +6,15 @@ In this task, you will explore apps, their design, and what apps that address re
 
 --- task ---
 
-Read the two sets of teacher slides from [Session 1](https://ncce.io/pVQwRm){:target="_blank"} and [Session 2](https://ncce.io/p3WCIt){:target="_blank"}. These slides give you a clear understanding of the idea development process during these two sessions. Links are given to a series of videos that are very informative.
+Read the two sets of teacher slides from [Session 1](https://docs.google.com/presentation/d/144Uc-9llYy4LVkKkD0AYTn5ZLM_vWLcPhGiIbuctNXs){:target="_blank"} and [Session 5](https://docs.google.com/presentation/d/1aca6FNN8WHA136iyUT-TI8LxI0CkND28hiXcQH6na0U){:target="_blank"}. These slides give you a clear understanding of the idea development process during the introductory session and the start of the idea development sessions. Links are given to a series of videos that are very informative.
 
 --- /task ---
 
 --- task ---
 
-Now work through [Session 3](https://ncce.io/jQMOvR){:target="_blank"}, which will help to build on your existing knowledge of app design and idea development. Exploring the resources in detail will improve your understanding of how the different files work together in the session. It will also allow you to experience the session from a student's perspective.
+Now work through [Session 6](https://drive.google.com/drive/folders/1MDhtKM8quM0U11biljR4F_LdRfMO-chk?usp=sharing){:target="_blank"}, which will help to build on your existing knowledge of app design and idea development. Exploring the resources in detail will improve your understanding of how the different files work together in the session. It will also allow you to experience the session from a student's perspective.
 
-You will use the ideas that you develop in Session 3 towards a working app, which you will program in Part 3 of this course. Keep a record of your ideas using the student worksheets (or student workbook) provided.
+You will use the ideas that you develop in Session 5 to 8 towards a working app, which you will program in Part 3 of this course. Keep a record of your ideas using the student worksheets (or student workbook) provided.
 
 --- /task ---
 

@@ -18,7 +18,7 @@ Open the ['Relevance' resource portal](https://ncce.io/relevance-pilot){:target=
 
 Feel free to download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet/iPad/computer for ease of reference in the classroom. 
 
-You can also find links to all of the resources in your [project guide](https://ncce.io/xiv8pO){:target="_blank"} or in the [lesson wireframe](https://ncce.io/4PM6um){:target="_blank"}, and you can also access them via [Google Drive](https://ncce.io/KNDNJR){:target="_blank"}.
+You can also find links to all of the resources in your [project guide](https://docs.google.com/document/d/1by0Blwi9Iq2iXvPBdKwuz5ZYqmGdZdb-FR8y5bJGH64){:target="_blank"} or in the [Scheme of Work](https://docs.google.com/document/d/1Fxw-gP-9OHx1j4xNi8MoEPkOI6JsfudbR_LAWo8dOxY/edit?usp=sharing){:target="_blank"}, and you can also access them via [Google Drive](https://drive.google.com/drive/folders/1tQZotIt90oK6WTsA_p1grJH4hGebG-Mm?usp=sharing){:target="_blank"}.
 
 --- /task ---
 
@@ -34,7 +34,7 @@ The main resources folder consists of one subfolder entitled 'Sessions' (contain
 
 --- task ---
 
-Take some time now to gain a brief overview of the 'App development course scheme of work (SoW)' and the 'Lesson wireframe' files. You will have the opportunity to understand the sessions in more detail in the next steps.
+Take some time now to gain a brief overview of the 'Overview: Scheme of Work(SoW) Sessions'. You will have the opportunity to understand the sessions in more detail in the next steps.
 
 --- /task ---
 

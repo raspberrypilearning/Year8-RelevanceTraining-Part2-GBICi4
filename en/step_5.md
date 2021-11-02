@@ -9,6 +9,8 @@ Open the [Session 8](https://drive.google.com/drive/folders/1nQReIPiBQ7C7C3X5Qvb
 
 --- task ---
 
+Open the [Session 9](https://drive.google.com/drive/folders/1dm43k8X1q8lt8_5gtA6TIQ-df7Y5Mfeu?usp=sharing){:target="_blank"} folder. Read the teacher slides and the other session resources provided.
+
 Now develop your designs for your app on the mobile phone screen templates on pages 1 and 2 of [Session 9 student worksheets](https://docs.google.com/presentation/d/1MQjzLhsQLqN8eTqyh1f6cvezcbSssOBzRbzAN7fT6ZQ){:target="_blank"}.
 
 Think about essential and feasible features, sketching out how you want your screens to look. Consider what the user sees when they open the app, and how they move through screens and use important features.
@@ -17,7 +19,7 @@ Think about essential and feasible features, sketching out how you want your scr
 
 --- task ---
 
-Open the [Session 9](https://drive.google.com/drive/folders/1dm43k8X1q8lt8_5gtA6TIQ-df7Y5Mfeu?usp=sharing){:target="_blank"} folder. Read the teacher slides and the other session resources provided. Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
+Refine your designs by considering the user experience (UX). Explore copyright-free images and sounds that you can use as **assets** in your app.
 
 --- /task ---
 

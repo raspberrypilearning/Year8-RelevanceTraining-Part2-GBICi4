@@ -10,7 +10,7 @@ First, you are going to access the session resources that you will need for the 
 
 --- task ---
 
-Open the ['Relevance' resource portal](https://ncce.io/relevance-pilot){:target="_blank"}, where you can explore all the resources for Sessions 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
+Open the ['Relevance' resource portal](https://ncce.io/relevance){:target="_blank"}, where you can explore all the resources for Sessions 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
 
 ![Modelling access webpage](images/relevance-Webpage.png){:width="350px"}
 

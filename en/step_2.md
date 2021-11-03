@@ -1,13 +1,13 @@
-## Twelve sessions
-Session 1 introduces learners generally to app development. From Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. From session 5 to 7, learners are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of session 8 and subsequent sessions, students explore the programming concepts of sequencing and selection to produce an app of their choice.
+## Eleven to thirteen sessions
+Session 1 introduces learners generally to app development. From Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. From Session 5 to 7, learners are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of Session 8 and subsequent sessions, students explore the programming concepts of sequencing and selection to produce an app of their choice.
 
 ![Lesson Folders on screen and rest cursor on each folder](images/relevance-LessonFolderAccess.gif)
 
 In the main 'Sessions' folder, you will find 13 numbered session folders.
 
-Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 - Industry Engagement - where students pitch their ideas to industry Experts online. Teachers will need to plan this session at least a week in advance. See Session 7 Primer for further details on [Industry Engagement](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo/edit?usp=sharing). 
+Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 on Industry Engagement where students pitch their ideas to an Industry Experts online. Teachers need to arrange this session at least a week in advance of delivery. See Session 7's [Primer](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo) for further details on this optional session.
 
-Teachers can also opt for all students to undertake Session 11 which is an additional app building session. If undertaking Session 10 and 11, students will have two full sessions to build and refine their app.
+Teachers can also opt for all students to undertake Session 11 which offers a second app building session. If undertaking both Session 10 and 11, students will have two full sessions to build their app. Session 12 allow students to finish building their app.
 
 Each session folder includes the following:
 + Lesson primer

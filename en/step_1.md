@@ -29,7 +29,7 @@ The main resources folder consists of one subfolder entitled 'Sessions' (contain
 + App development student workbook (slides for use as worksheets)
 + Guide to setting up App Lab logins (text document)
 + Teabreak training on teamwork (slides)
-+ 
+
 --- /task ---
 
 --- task ---

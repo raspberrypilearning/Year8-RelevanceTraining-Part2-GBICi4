@@ -1,4 +1,4 @@
-## Eleven to thirteen sessions
+## The sessions
 Session 1 introduces learners generally to app development. From Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. From Session 5 to 7, learners are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of Session 8 and subsequent sessions, students explore the programming concepts of sequencing and selection to produce an app of their choice.
 
 ![Lesson Folders on screen and rest cursor on each folder](images/relevance-LessonFolderAccess.gif)

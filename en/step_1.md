@@ -10,7 +10,7 @@ First, you are going to access the session resources that you will need for the 
 
 --- task ---
 
-Open the ['Relevance' resource portal](https://ncce.io/relevance){:target="_blank"}, where you can explore all the resources for Sessions 1 to 12. The webpage is the access portal for all the resources relating to the Relevance trial.
+Open the ['Relevance' resource portal](https://ncce.io/relevance){:target="_blank"}, where you can explore all the resources for Sessions 1 to 13. The webpage is the access portal for all the resources relating to the Relevance trial.
 
 ![Modelling access webpage](images/relevance-Webpage.png){:width="350px"}
 
@@ -25,7 +25,7 @@ You can also find links to all of the resources in your [project guide](https://
 --- task ---
 
 The main resources folder consists of one subfolder entitled 'Sessions' (containing resources for the thirteen sessions/one-hour lessons) as well as four further files: 
-+ App development course scheme of work (SoW) (text document)
++ App development course Scheme of Work (SoW) (text document)
 + App development student workbook (slides for use as worksheets)
 + Guide to setting up App Lab logins (text document)
 + Teabreak training on teamwork (slides)

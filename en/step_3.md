@@ -51,7 +51,7 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 
 --- /task ---
 
-In the next step, you will develop an understanding of app design and idea development processes in your first training task, using Sessions 1 to 5 as a reference.
+In the next step, you will develop an understanding of app design and idea development processes in your first training task.
 
 Click the green button (below right) to go to the next step in this session.
 

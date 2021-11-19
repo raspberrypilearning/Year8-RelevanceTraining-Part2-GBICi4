@@ -11,7 +11,7 @@ All the lesson primers are structured in a consistent way with the following sub
 + Extension tasks (in some sessions)
 + Further reading
 
-![Lesson Primer](images/relevance-LessonPrimer.png){:width="300px"}
+![Lesson primer.](images/relevance-LessonPrimer.png){:width="300px"}
 
 **Lesson plan**
 The 'five-minute' lesson plan enables teachers to visualise the lesson. The one-page diagram includes: 
@@ -24,22 +24,22 @@ The 'five-minute' lesson plan enables teachers to visualise the lesson. The one-
 + Key words
 + Learning episodes — identifying whether these are teacher led or student led
 
-![Lesson Plan](images/relevance-LessonPlan.png){:width="400px"}
+![Lesson plan.](images/relevance-LessonPlan.png){:width="400px"}
 
 **Teacher slides**
 All the teacher slides are structured in a consistent way, beginning with a reminder of the last session, the objectives of the current session, and the activities that the students will undertake. This introduction is followed by the session activities. At the end of the session, the slides always include the following: a student review of their progress, a reminder of the session contents, and details about the focus of the next session.
 
-![Lesson Slides](images/relevance-LessonSlides.gif)
+![Lesson slides.](images/relevance-LessonSlides.gif)
 
 **Student checklist**
 The one-page student-facing table enables students to tick off the tasks in the session as they complete them. It acts as a useful motivator, reminder, and learning progression map.
  
-![Student Checklist](images/relevance-StudentChecklist.png){:width="300px"}
+![Student checklist.](images/relevance-StudentChecklist.png){:width="300px"}
 
 **Student workbook and worksheets**
 Each session folder contains a student worksheet. These worksheets are also combined into one 'Student workbook' file, which is in the main folder. Choose whether you want the students to have access to the whole workbook (see below) at the beginning of the trial, or to have access to the lesson worksheets in the relevant sessions. The student workbook is useful to document their learning.
 
-![Lesson  Workbook](images/relevance-StudentWorkbook.gif)
+![Lesson workbook.](images/relevance-StudentWorkbook.gif)
 
 --- /task ---
 

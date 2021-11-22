@@ -28,4 +28,4 @@ You will now go on to Part 3 of the online course, developing your knowledge of 
 You can access [Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
-**Note: Please do not click the green 'What's next?' button (below right) as this link is not relevant to this training course.**
+**Note: Please do not click the green 'What's next?' button (below right), as this link is not relevant to this training course.**

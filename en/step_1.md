@@ -24,11 +24,11 @@ You can also find links to all of the resources in your [project guide](https://
 
 --- task ---
 
-The main resources folder consists of one subfolder entitled 'Sessions' (containing resources for the thirteen sessions/one-hour lessons) as well as four further files: 
+The main resources folder consists of one subfolder entitled 'Sessions' (containing resources for the 13 sessions/one-hour lessons), as well as four further files: 
 + App development course Scheme of Work (SoW) (text document)
 + App development student workbook (slides for use as worksheets)
 + Guide to setting up App Lab logins (text document)
-+ Teabreak training on teamwork (slides)
++ Tea-break training on teamwork (slides)
 
 --- /task ---
 

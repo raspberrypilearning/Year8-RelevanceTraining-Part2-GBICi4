@@ -1,11 +1,11 @@
 ## The sessions
 Session 1 introduces learners generally to app development. From Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. From Session 5 to 7, learners are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of Session 8 and subsequent sessions, students explore the programming concepts of sequencing and selection to produce an app of their choice.
 
-![Lesson Folders on screen and rest cursor on each folder](images/relevance-LessonFolderAccess.gif)
+![Lesson Folders on screen and rest cursor on each folder.](images/relevance-LessonFolderAccess.gif)
 
-In the main 'Sessions' folder, you will find 13 numbered session sub-folders.
+In the main 'Sessions' folder, you will find 13 numbered session subfolders.
 
-Please note, Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 on Industry Engagement where students pitch their ideas to an Industry Expert online. If undertaking Session 7, teachers need to make arrangements at least a week in advance of delivery. See Session 7's [Primer](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo){:target="_blank"} for further details on this optional session.
+Please note that Sessions 7 and 11 are offered as optional sessions. Teachers delivering the SoW can decide for all students to undertake Session 7 on Industry Engagement where students pitch their ideas to an Industry Expert online. If undertaking Session 7, teachers need to make arrangements at least a week in advance of delivery. See Session 7's [Primer](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo){:target="_blank"} for further details on this optional session.
 
 Teachers can also opt for all students to undertake Session 11 which offers a second app building session. If undertaking both Session 10 and 11, students will have two full sessions to build their app. In Session 12, students finish building their app.
 

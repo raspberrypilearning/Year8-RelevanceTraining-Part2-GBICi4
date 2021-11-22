@@ -26,6 +26,7 @@ Refine your designs by considering the user experience (UX). Explore copyright-f
 You will now go on to Part 3 of the online course, developing your knowledge of App Lab. Learning about App Lab will help you to refine your app ideas further, identify how you can program your app, see your ideas in a working app, and share your app with others.
 
 You can access [Part 3 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part3-GBICi4).
+
 You can access the [menu for Parts 1, 2, and 3 here](https://projects.raspberrypi.org/en/pathways/year8-relevancetraining-gbici4).
 
 **Note: Please do not click the green 'What's next?' button (below right), as this link is not relevant to this training course.**

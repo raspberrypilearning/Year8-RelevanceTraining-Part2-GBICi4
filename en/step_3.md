@@ -4,12 +4,12 @@ Below you will find an explanation of what each of the separate resources offers
 --- task ---
 
 **Lesson primer**
-All the lesson primers are structured in a consistent way with the following subheadings:
-+ What you need to know about running this lesson: practical issues, documents required, and activity timings
-+ Key information and terminology
+All the lesson primers are structured in a consistent way with the following subheadings, where applicable:
++ What you need to know about running this lesson - this addresses practical issues, documents required, and activity timings
++ Key information and terminology you'll need
++ Extension tasks
 + Assessment questions
-+ Extension tasks (in some sessions)
-+ Further reading
++ Further reading to help you get to know the topic
 
 ![Lesson primer.](images/relevance-LessonPrimer.png){:width="300px"}
 
@@ -27,9 +27,9 @@ The 'five-minute' lesson plan enables teachers to visualise the lesson. The one-
 ![Lesson plan.](images/relevance-LessonPlan.png){:width="400px"}
 
 **Teacher slides**
-All the teacher slides are structured in a consistent way, beginning with a reminder of the last session, the objectives of the current session, and the activities that the students will undertake. This introduction is followed by the session activities. At the end of the session, the slides always include the following: a student review of their progress, a reminder of the session contents, and details about the focus of the next session.
+All the teacher slides are structured in a consistent way, beginning with a reminder of the last session, the objectives of the current session, and the activities that the students will undertake. This introduction is followed by the session activities. At the end of the session, the slides always include the following: a reminder of the session contents and details about the focus of the next session.
 
-![Lesson slides.](images/relevance-LessonSlides.gif)
+![Teacher slides.](images/relevance-LessonSlides.gif)
 
 **Student checklist**
 The one-page student-facing table enables students to tick off the tasks in the session as they complete them. It acts as a useful motivator, reminder, and learning progression map.
@@ -37,7 +37,7 @@ The one-page student-facing table enables students to tick off the tasks in the 
 ![Student checklist.](images/relevance-StudentChecklist.png){:width="300px"}
 
 **Student workbook and worksheets**
-Each session folder contains a student worksheet. These worksheets are also combined into one 'Student workbook' file, which is in the main folder. Choose whether you want the students to have access to the whole workbook (see below) at the beginning of the trial, or to have access to the lesson worksheets in the relevant sessions. The student workbook is useful to document their learning.
+Each session folder contains a student worksheet, where applicable. These worksheets are also combined into one 'Student workbook' file, which is in the main resources folder. Choose whether you want the students to have access to the whole workbook (see below) at the beginning of the trial, or to have access to the lesson worksheets in the relevant sessions. The student workbook is useful to document their learning.
 
 ![Lesson workbook.](images/relevance-StudentWorkbook.gif)
 

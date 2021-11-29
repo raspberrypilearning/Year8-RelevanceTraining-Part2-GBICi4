@@ -3,7 +3,7 @@ You will be using App Lab to teach key programming concepts in the production of
 
 Parts 2 and 3 of this course focus on building up your expertise in advance of the trial, as well as familiarising yourself with the teaching resources for the trial. Over the rest of this online course, you will have an opportunity to explore all the resources for yourself, try them out, and think about how to implement the sessions in your own classroom.
 
-This part of the course, Part 2, begins to introduce you to the teaching resources. Through two tasks, you will focus on the development of your own app idea that addresses a real-world problem. You will complete two sessions that the students themselves will undertake as part of the trial. 
+This part of the course, Part 2, begins to introduce you to the teaching resources. Through two tasks, you will focus on the development of your own app idea that addresses a real-world problem. You will complete a number of sessions that the students themselves will undertake as part of the trial. 
 
 ## Accessing the resources
 First, you are going to access the session resources that you will need for the trial. 

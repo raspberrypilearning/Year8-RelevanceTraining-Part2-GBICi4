@@ -53,7 +53,7 @@ Make a note of anything that you need to clarify. You can use the feedback form 
 
 In the next step, you will develop an understanding of app design and idea development processes in your first training task.
 
-Click the green button (below right) to go to the next step in this session.
+Click the green button (below right) to go to the next step.
 
 You can go back to the [start of Part 2 here](https://projects.raspberrypi.org/en/projects/Year8-RelevanceTraining-Part2-GBICi4). 
 

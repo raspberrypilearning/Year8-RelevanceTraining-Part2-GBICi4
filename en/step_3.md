@@ -27,7 +27,7 @@ The 'five-minute' lesson plan enables teachers to visualise the lesson. The one-
 ![Lesson plan.](images/relevance-LessonPlan.png){:width="400px"}
 
 **Teacher slides**
-All the teacher slides are structured in a consistent way, beginning with a reminder of the last session, the objectives of the current session, and the activities that the students will undertake. This introduction is followed by the session activities. At the end of the session, the slides always include the following: a reminder of the session contents and details about the focus of the next session.
+All the teacher slides are structured in a consistent way, beginning with a reminder of the last session, the objectives of the current session, and the activities that the students will undertake. This introduction is followed by the session activities. At the end of the session, the slides always include a reminder of the session contents and details about the focus of the next session.
 
 ![Teacher slides.](images/relevance-LessonSlides.gif)
 

@@ -6,7 +6,7 @@ In this task, you will explore apps, their design, and what apps that address re
 
 --- task ---
 
-Read the two sets of teacher slides from [Session 1](https://docs.google.com/presentation/d/144Uc-9llYy4LVkKkD0AYTn5ZLM_vWLcPhGiIbuctNXs){:target="_blank"} and [Session 5](https://docs.google.com/presentation/d/1aca6FNN8WHA136iyUT-TI8LxI0CkND28hiXcQH6na0U){:target="_blank"}. These slides give you a clear understanding of the idea development process during the introductory session and the subsequent idea development sessions, and include links to a number videos that are very informative.
+Read the two sets of teacher slides from [Session 1](https://docs.google.com/presentation/d/144Uc-9llYy4LVkKkD0AYTn5ZLM_vWLcPhGiIbuctNXs){:target="_blank"} and [Session 5](https://docs.google.com/presentation/d/1aca6FNN8WHA136iyUT-TI8LxI0CkND28hiXcQH6na0U){:target="_blank"}. These slides give you a clear understanding of the idea development process during the introductory session and the subsequent idea development sessions, and include links to a number of videos that are very informative.
 
 --- /task ---
 

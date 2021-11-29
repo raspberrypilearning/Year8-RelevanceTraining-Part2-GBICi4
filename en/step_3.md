@@ -5,7 +5,7 @@ Below you will find an explanation of what each of the separate resources offers
 
 **Lesson primer**
 All the lesson primers are structured in a consistent way with the following subheadings, where applicable:
-+ What you need to know about running this lesson - this addresses practical issues, documents required, and activity timings
++ What you need to know about running this lesson — this addresses practical issues, documents required, and activity timings
 + Key information and terminology you'll need
 + Extension tasks
 + Assessment questions

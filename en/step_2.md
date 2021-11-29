@@ -5,7 +5,9 @@ Session 1 introduces students to app development in general. In Sessions 2 to 4,
 
 In the main 'Sessions' folder, you will find 13 numbered session subfolders.
 
-Please note that Sessions 7 and 11 are optional sessions, and teachers delivering the Scheme of Work can decide whether to include them. In Session 7 – Industry engagement, students pitch their ideas to an industry Expert online. If you would like your students to undertake Session 7, you need to make arrangements at least a week in advance of delivering the session. See the [Session 7 lesson primer](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo){:target="_blank"} for further details on this optional session.
+Please note that Sessions 7 and 11 are optional sessions, and teachers delivering the Scheme of Work can decide whether to include them. 
+
+In Session 7 – Industry engagement, students pitch their ideas to an industry Expert online. If you would like your students to undertake Session 7, you need to make arrangements at least a week in advance of delivering the session. See the [Session 7 lesson primer](https://docs.google.com/document/d/1LJ-cINBklLBknOfxHQq9WS0EAxRfOw6U_AqS0XC96Qo){:target="_blank"} for further details on this optional session.
 
 Session 11 is a second app building session. If students undertake both Session 10 and 11, they will have two full sessions to build their app. In Session 12, students finish building their app.
 

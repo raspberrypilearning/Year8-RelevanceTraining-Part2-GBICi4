@@ -14,7 +14,7 @@ Read the two sets of teacher slides from [Session 1](https://docs.google.com/pre
 
 Now work through [Session 6](https://drive.google.com/drive/folders/1MDhtKM8quM0U11biljR4F_LdRfMO-chk?usp=sharing){:target="_blank"}, which will help to build on your existing knowledge of app design and idea development. Exploring the resources in detail will improve your understanding of how the different files work together in the session. It will also allow you to experience the session from a student's perspective.
 
-You will use the ideas that you develop in Sessions 5 to 8 towards a working app, which you will program in Part 3 of this course. Keep a record of your ideas using the student worksheets (or student workbook) provided.
+Keep a record of your ideas developed during Part 2 of this course using the student worksheets (or student workbook) provided. In Part 3 of this course, you will use the ideas that you have developed towards a working app.
 
 --- /task ---
 

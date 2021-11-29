@@ -28,7 +28,7 @@ The main resources folder consists of one subfolder entitled 'Sessions' (contain
 + Scheme of Work (SoW) (text document)
 + App development student workbook (slides for use as worksheets)
 + Guide to setting up App Lab logins (text document)
-+ Tea-break training on teamwork (slides)
++ Tea break training on teamwork (slides)
 
 --- /task ---
 

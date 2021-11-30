@@ -1,7 +1,7 @@
 ## The sessions
-Session 1 introduces students to app development in general. In Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. In Sessions 5 to 7, students are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of Session 8 and the subsequent sessions, students begin to produce an app of their choice.
+Session 1 introduces students to app development in general. In Sessions 2 to 4, students are introduced to the App Lab online environment and related blocks that can be used to construct a sample app. In Sessions 5 to 7, students are gradually introduced to the process of developing ideas for apps that can address a real-world problem. Over the course of Session 8 and the subsequent sessions, students gradually produce an app of their choice.
 
-![Lesson Folders on screen and rest cursor on each folder.](images/relevance-LessonFolderAccess.gif)
+![The 'Sessions' folder.](images/relevance-LessonFolderAccess.gif)
 
 In the main 'Sessions' folder, you will find 13 numbered session subfolders.
 

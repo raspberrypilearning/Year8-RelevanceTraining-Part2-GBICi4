@@ -14,8 +14,6 @@ Open the ['Relevance' resource portal](https://ncce.io/relevance){:target="_blan
 
 ![Modelling access webpage](images/relevance-Webpage.png){:width="350px"}
 
-![Modelling access webpage](images/relevance-WebpageAccess.gif)
-
 You can download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet or computer for ease of reference in the classroom. 
 
 You can also find links to all of the resources in your [project guide](https://docs.google.com/document/d/1by0Blwi9Iq2iXvPBdKwuz5ZYqmGdZdb-FR8y5bJGH64){:target="_blank"} or in the [Scheme of Work](https://docs.google.com/document/d/1Fxw-gP-9OHx1j4xNi8MoEPkOI6JsfudbR_LAWo8dOxY){:target="_blank"}, and you can also access them via [Google Drive](https://drive.google.com/drive/folders/1tQZotIt90oK6WTsA_p1grJH4hGebG-Mm?usp=sharing){:target="_blank"}.

@@ -12,7 +12,7 @@ First, you are going to access the session resources that you will need for the 
 
 Open the ['Relevance' resource portal](https://ncce.io/relevance){:target="_blank"}, where you can explore all the resources for Sessions 1 to 13. The webpage is the access portal for all the resources relating to the Relevance trial.
 
-![Modelling access webpage](images/relevance-Webpage.png){:width="350px"}
+![The 'Relevance' resource portal.](images/relevance-Webpage.png){:width="350px"}
 
 You can download the resources or access them each time you need them from the webpage. You may wish to bookmark the link to the resources in the browser toolbar of your tablet or computer for ease of reference in the classroom. 
 

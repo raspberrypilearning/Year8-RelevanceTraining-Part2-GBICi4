@@ -1,13 +1,18 @@
-title: "Part 2: Year 8 'Relevance' training – Getting started"
+---
+title: 'Part 2: Year 8 ''Relevance'' training – Getting started'
 hero_image: images/banner3.png
-description:  Part 2 of the online training course introduces teachers to app idea development in the resources for the Year 8 Relevance trial through a series of tasks
+description: Part 2 of the online training course introduces teachers to app idea
+  development in the resources for the Year 8 Relevance trial through a series of
+  tasks
 version: 4
 listed: false
 copyedit: false
-last_tested: "2020-09-08"
+last_tested: '2020-09-08'
 steps:
-  - title: Accessing the resources
-  - title: The sessions
-  - title: Session resources
-  - title: "Task 1: App idea development"
-  - title: "Task 2: Paper designs and assets"
+- title: Accessing the resources
+  completion: engaged
+- title: The sessions
+- title: Session resources
+- title: 'Task 1: App idea development'
+  completion: internal
+- title: 'Task 2: Paper designs and assets'
